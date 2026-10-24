@@ -6,7 +6,7 @@ Type romanized Bangla (`ami banglay gan gai`) and press Space to get Bangla (আ
 
 ## Based on
 
-This is a fork of [omicronlab/iAvro](https://github.com/omicronlab/iAvro) (iAvro / Avro Keyboard for Mac) by Rifat Nabi and OmicronLab. All original copyright notices are kept in the source files. Upstream describes the project as open source (listed as MPL 1.1 by [Wikipedia](https://en.wikipedia.org/wiki/Avro_Keyboard)); check with OmicronLab before relying on the license.
+This is a fork of [omicronlab/iAvro](https://github.com/omicronlab/iAvro) (iAvro / Avro Keyboard for Mac) by Rifat Nabi and OmicronLab. All original copyright notices are kept in the source files. Upstream describes the project as open source (listed as MPL 1.1 by [Wikipedia](https://en.wikipedia.org/wiki/Avro_Keyboard)); this repository is distributed under MPL 1.1, see [LICENSE](LICENSE).
 
 ## Fixes in this fork
 
