@@ -4,6 +4,16 @@ Avro Phonetic Bangla input method for macOS, rebuilt to run natively on **Apple 
 
 Type romanized Bangla (`ami banglay gan gai`) and press Space to get Bangla (আমি বাংলায় গান গাই).
 
+## Download
+
+Get the latest installer from the [Releases page](https://github.com/tonmoy-y/Avro-for-Mac/releases/latest):
+
+1. Download `Avro-Keyboard-for-Mac-arm64.pkg` and open it (right-click → Open if macOS warns about an unidentified developer).
+2. Log out and back in.
+3. System Settings → Keyboard → Input Sources → Edit → + → Bangla → **Avro Keyboard**.
+
+Prefer no installer? Download the `.zip` and move `Avro Keyboard.app` into `~/Library/Input Methods`.
+
 ## Based on
 
 This is a fork of [omicronlab/iAvro](https://github.com/omicronlab/iAvro) (iAvro / Avro Keyboard for Mac) by Rifat Nabi and OmicronLab. All original copyright notices are kept in the source files. Upstream describes the project as open source (listed as MPL 1.1 by [Wikipedia](https://en.wikipedia.org/wiki/Avro_Keyboard)); this repository is distributed under MPL 1.1, see [LICENSE](LICENSE).
