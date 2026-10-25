@@ -14,6 +14,16 @@ Get the latest installer from the [Releases page](https://github.com/tonmoy-y/Av
 
 Prefer no installer? Download the `.zip` and move `Avro Keyboard.app` into `~/Library/Input Methods`.
 
+## If typing stops working
+
+If Avro disappears from the input menu or nothing types, re-enable it:
+
+```bash
+./enable-avro.sh
+```
+
+(Or add it again in System Settings → Keyboard → Input Sources.)
+
 ## Based on
 
 This is a fork of [omicronlab/iAvro](https://github.com/omicronlab/iAvro) (iAvro / Avro Keyboard for Mac) by Rifat Nabi and OmicronLab. All original copyright notices are kept in the source files. Upstream describes the project as open source (listed as MPL 1.1 by [Wikipedia](https://en.wikipedia.org/wiki/Avro_Keyboard)); this repository is distributed under MPL 1.1, see [LICENSE](LICENSE).
